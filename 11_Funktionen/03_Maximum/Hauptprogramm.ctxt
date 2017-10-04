@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hauptprogramm
+comment0.text=\r\nBerechnung\ des\ Maximums\ zweier/dreier\ Zahlen\r\n@author\ Matthias\ Ebert\r\n@version\ 0.9\r\n
+comment1.params=x\ y
+comment1.target=double\ berechneMaximum(double,\ double)
+comment1.text=\ \r\n\ \ Berechnet\ das\ Maximum\ zweier\ Zahlen.\r\n\ \ @param\ x\ erste\ Zahl\r\n\ \ @param\ y\ zweite\ Zahl\r\n\ \ @return\ Maximum\ von\ x\ und\ y\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ \ Hauptprogramm\r\n\ \ @param\ args\ Liste\ der\ Parameter,\ die\ beim\ Programmaufruf\ angegeben\ werden\r\n
+numComments=3

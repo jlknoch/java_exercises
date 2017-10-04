@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Hauptprogramm
+comment0.text=\r\nEinf\u00FChrung\ in\ Funktionen\r\n@author\ Matthias\ Ebert\r\n@version\ 5.0\r\n
+comment1.params=begruessung\ spieler_nummer
+comment1.target=java.lang.String\ begruesseSpieler(java.lang.String,\ int)
+comment1.text=\ \r\n\ \ Begr\u00FC\u00DFt\ einen\ Spieler\ und\ erfragt\ seinen\ Namen.\r\n\ \ @param\ begruessung\ Text,\ der\ bei\ der\ Begr\u00FC\u00DFung\ des\ Spielers\ verwendet\ wird.\r\n\ \ @param\ spieler_nummer\ Nummer\ des\ Spielers\r\n\ \ @return\ eingelesener\ Name\ des\ Spielers\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment2.text=\r\n\ \ Hauptprogramm\r\n\ \ @param\ args\ Liste\ der\ Parameter,\ die\ beim\ Programmaufruf\ angegeben\ werden\r\n
+numComments=3
